@@ -1,2 +1,2 @@
-# learn_git
-for learning git
+# demo_project
+
